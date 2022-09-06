@@ -8,7 +8,7 @@ node_modules
 .next
 
 web/.next
-web/build
+build
 web/coverage
 dist
 out
