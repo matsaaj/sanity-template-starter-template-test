@@ -1,7 +1,8 @@
 {
   "root": true,
   "project": {
-    "name": "starter template test"
+    "name": "starter template test",
+    "basePath": "/studio"
   },
   "api": {
     "projectId": "stqq9njc",
