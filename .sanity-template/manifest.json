@@ -7,11 +7,6 @@
             "id": "vercel",
             "name": "Vercel",
             "url": "https://vercel.com/"
-        },
-        {
-            "id": "nextjs",
-            "name": "Next.js",
-            "url": "https://nextjs.org"
         }
     ],
     "deployment": {
